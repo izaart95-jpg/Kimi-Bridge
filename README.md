@@ -28,6 +28,9 @@ You can change apiKey in main.js/IDE.js at Around line 65
 
 ---
 
+## Usage & WalkThrough
+- [Walkthrough](https://youtu.be/GlWP-YYddZg)
+
 ## 📡 API Endpoints
 
 ### 1. Chat Completions (OpenAI Compatible)
